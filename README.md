@@ -5,3 +5,8 @@
 <h2> Harici kullanımlar</h2>
 
 HTML,CSS,JAVASCRİPT özellikleri kullanılmıştır
+
+
+<h2> Ekran Görüntüsü </h2>
+
+![](ekran.gif)
